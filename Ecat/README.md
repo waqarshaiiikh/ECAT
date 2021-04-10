@@ -1,7 +1,7 @@
 # Ecat
 
-<b> For Release Version 
-   . Goto Ecat -> ECAT TEST PREP -> bin -> Release 
+<b> For Release Version \n
+   . Goto Ecat -> ECAT TEST PREP -> bin -> Release \n
    . You can also modify the software the source code and full Database base available here 
 <b> Dependency
    . The Database is dependent on Microsoft Access 2007 you can download from this link. https://download.cnet.com/Access-2007-Download-Access-Runtime/3000-2070_4-10726092.html
