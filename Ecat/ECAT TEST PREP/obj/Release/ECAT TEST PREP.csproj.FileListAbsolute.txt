@@ -1,0 +1,46 @@
+U:\pract-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.AboutBox1.resources
+U:\pract-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.CHAPTERS.resources
+U:\pract-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.Component1.resources
+U:\pract-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.DESIGN_PATTERN.resources
+U:\pract-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.ECAT_1_.resources
+U:\pract-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.ECAT_2_.resources
+U:\pract-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.ECAT_3_.resources
+U:\pract-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.ECAT.resources
+U:\pract-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.Form3.resources
+U:\pract-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.PERSONAL_INFO.resources
+U:\pract-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.Properties.Resources.resources
+U:\pract-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.SCORE.resources
+U:\pract-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.TEST__PATTERN.resources
+U:\pract-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.WELLCOME.resources
+U:\pract-master\ECAT TEST PREP\obj\Release\ECAT TEST PREP.csproj.GenerateResource.Cache
+U:\pract-master\ECAT TEST PREP\bin\Release\ECAT TEST PREP.exe.config
+U:\pract-master\ECAT TEST PREP\bin\Release\ECAT TEST PREP.exe
+U:\pract-master\ECAT TEST PREP\bin\Release\ECAT TEST PREP.pdb
+U:\pract-master\ECAT TEST PREP\bin\Release\Bunifu_UI_v1.4.dll
+U:\pract-master\ECAT TEST PREP\obj\Release\ECAT TEST PREP.exe
+U:\pract-master\ECAT TEST PREP\obj\Release\ECAT TEST PREP.pdb
+E:\ECAT software\Ecat-master\ECAT TEST PREP\bin\Release\ECAT TEST PREP.exe.config
+E:\ECAT software\Ecat-master\ECAT TEST PREP\bin\Release\ECAT TEST PREP.exe
+E:\ECAT software\Ecat-master\ECAT TEST PREP\bin\Release\ECAT TEST PREP.pdb
+E:\ECAT software\Ecat-master\ECAT TEST PREP\bin\Release\Bunifu_UI_v1.4.dll
+E:\ECAT software\Ecat-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.AboutBox1.resources
+E:\ECAT software\Ecat-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.CHAPTERS.resources
+E:\ECAT software\Ecat-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.Component1.resources
+E:\ECAT software\Ecat-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.DESIGN_PATTERN.resources
+E:\ECAT software\Ecat-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.ECAT_1_.resources
+E:\ECAT software\Ecat-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.ECAT_2_.resources
+E:\ECAT software\Ecat-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.ECAT_3_.resources
+E:\ECAT software\Ecat-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.ECAT.resources
+E:\ECAT software\Ecat-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.Form3.resources
+E:\ECAT software\Ecat-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.PERSONAL_INFO.resources
+E:\ECAT software\Ecat-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.Properties.Resources.resources
+E:\ECAT software\Ecat-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.SCORE.resources
+E:\ECAT software\Ecat-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.TEST__PATTERN.resources
+E:\ECAT software\Ecat-master\ECAT TEST PREP\obj\Release\ECAT_TEST_PREP.WELLCOME.resources
+E:\ECAT software\Ecat-master\ECAT TEST PREP\obj\Release\ECAT TEST PREP.csproj.GenerateResource.Cache
+E:\ECAT software\Ecat-master\ECAT TEST PREP\obj\Release\ECAT TEST PREP.exe
+E:\ECAT software\Ecat-master\ECAT TEST PREP\obj\Release\ECAT TEST PREP.pdb
+E:\ECAT software\Ecat-master\ECAT TEST PREP\bin\Release\ECAT TEST PREP.exe.manifest
+E:\ECAT software\Ecat-master\ECAT TEST PREP\bin\Release\ECAT TEST PREP.application
+E:\ECAT software\Ecat-master\ECAT TEST PREP\obj\Release\ECAT TEST PREP.exe.manifest
+E:\ECAT software\Ecat-master\ECAT TEST PREP\obj\Release\ECAT TEST PREP.application
